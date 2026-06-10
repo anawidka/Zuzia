@@ -6,7 +6,8 @@
 <li>Nie myśl o tej osobie</li>
 <li>Nie czaj się na tą osobę</li>
 <li>Nie słuchaj tej osoby, jeśli nie mówi do ciebie</li>
+  </ul>
   <p>
     Mam nadzieję, że wszystko jest zrozumiałe i nie będziemy już sobie wchodzić w paradę. Miłego dnia.
   </p>
-</ul>
+
