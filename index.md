@@ -1,4 +1,4 @@
-<!-- index.html --> <!DOCTYPE html> <html lang="pl"> <head> <meta charset="UTF-8"> <meta
+<!-- index.md --> <!DOCTYPE html> <html lang="pl"> <head> <meta charset="UTF-8"> <meta
 name="viewport" content="width=device-width, initial-scale=1.0"> <title>Co robić kiedy ktoś cię nie lubi?
 </title> </head> <body>
 <h1>Co robić kiedy ktoś cię nie lubi?</h1>
