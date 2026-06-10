@@ -1,5 +1,5 @@
 # Zuzia
-<!-- rozpoznanie.html --> 
+<!-- rozpoznanie.md --> 
 <!DOCTYPE html> 
 <html lang="pl"> 
   <head> 
@@ -16,5 +16,5 @@ lubi?</title>
 Może być ciężko to zaakceptować, jednak mamy poradnik jak poradzić sobie
 z taką sytuacją i jakie działania podjąć:
 </p>
-<a href="index.html">Przejdź do poradnika</a>
+<a href="index.md">Przejdź do poradnika</a>
 </body> </html>
